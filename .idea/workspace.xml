@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84369abe-205e-4e23-b396-261b4c302503" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CNN_LSTM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/CNN_LSTM.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597796743634</updated>
       <workItem from="1597796751164" duration="815000" />
-      <workItem from="1597799548682" duration="355000" />
+      <workItem from="1597799548682" duration="485000" />
     </task>
     <servers />
   </component>
